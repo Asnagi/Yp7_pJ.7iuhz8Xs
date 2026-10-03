@@ -1,6 +1,0 @@
-{
-  // Worker 名称，可改成你喜欢的（只能用小写字母、数字、连字符）
-  "name": "my-worker",
-  "main": "src/index.js",
-  "compatibility_date": "2026-01-01"
-}
